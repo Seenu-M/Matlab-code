@@ -21,11 +21,11 @@ imshow(the_Image);
 title('Detected face');
 
 @@ Step by step process  
-# At first the things to detected should be loaded, then the size of the image should be known by size function
-## The image should be resized to the if width is greater the 320 it can be done using imresize function
-### Face detection can be done by using vision.CascadeObjectDetector() function,
-#### Things to be detected and image detection spot shape should be mentioned.
-##### Atlast image output is detected
+### At first the things to detected should be loaded, then the size of the image should be known by size function
+### The image should be resized to the if width is greater the 320 it can be done using imresize function
+ ### Face detection can be done by using vision.CascadeObjectDetector() function,
+### Things to be detected and image detection spot shape should be mentioned.
+ ### Atlast image output is detected
 
 
 Code used to detect face
